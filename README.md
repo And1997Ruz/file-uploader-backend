@@ -5,3 +5,5 @@ Database is not being used in this application.
 ![5](https://user-images.githubusercontent.com/89400189/221553181-60e238d5-0cda-434f-9d52-6f269bc0562b.png)
 ![6](https://user-images.githubusercontent.com/89400189/221553183-20920136-9c9c-4c41-afd6-8ef0ce81dc68.png)
 ![7](https://user-images.githubusercontent.com/89400189/221553195-eae10e23-0911-4eda-a75c-e5d729139c4c.png)
+
+Frontend part https://github.com/And1997Ruz/file-uploader-frontend
